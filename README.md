@@ -1,1 +1,0 @@
-# fdr-vendor-mock
